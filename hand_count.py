@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 
-Use below Command to use webcam
+# Use below Command to use webcam
 cam = cv2.VideoCapture(0)
 
 # Lower Bound and upper bound to detect skin color
